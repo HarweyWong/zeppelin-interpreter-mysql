@@ -1,5 +1,6 @@
 # zeppelin-interpreter-mysql
 Mysql Interpreter for Zeppelin 0.5.0-incubating
+中文请参考：http://blog.csdn.net/jiekechoo/article/details/49356361
 
 ## build
 ```
